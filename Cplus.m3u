@@ -1,25 +1,23 @@
 #EXTM3U
-
-#EXTINF:-1  group-title="MYANMAR TV" tvg-logo="https://play-lh.googleusercontent.com/wvOXePMu15onYRUrKL1L_IxYsth0dJLi_qCliblXvM0vfmUL2yFTzFSIBOAhCsrTxQ", MAHAR SPORTS 
-https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/zyTQG9F.png", TVM
+EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" tvg-id=" MYANMAR TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,MRTV_4_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be7f7cbe12a54a27917f21f7310f63ae:101c5da36da54bc88122b932d946e9f7
+https://ott2.canalplus-myanmar.com/bpk-tv/MRTV_4_HD/output2/index.mpd
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png", TVM
 http://203.81.84.130/hls/mwd_serie/index.m3u8
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/zyTQG9F.png", GOLDEN 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png", GOLDEN 
 http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/uqrXcWB.pg", DVB NWE
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png", DVB NWE
 https://live-stream.dvb.no/hls/stream_low/index.m3u8
-
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-80x80-1ee.jpg", Mahar 
-https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8 
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://maharesports.com/wp-content/uploads/2022/07/cropped-Mahar-Tab_Logo.png", Mahar ESport 
-https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8 
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channelk-80x80-d7c.jpg", Channelk 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png", Channelk 
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8 
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mntv-120x120-dda.jpg", MNTV 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png", MNTV 
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.postimg.cc/s2fDBbmJ/Picsart-22-10-15-20-00-02-106.jpg", MSC Movie 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png", MSC Movie 
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8 
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://brittcoconsulting.com/wp-content/uploads/2019/01/Myanmar-logo1.jpg", Myanamr Music 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png", Myanamr Music 
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" tvg-id=" C+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,MRTV_4_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -247,13 +245,6 @@ https://ott2.canalplus-myanmar.com/bpk-tv/THUKHUMA_2/output2/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec1cd655ff41423fa49b0abaf840dd94:1013c6d9e08cb108e957311a2d990979
 https://ott2.canalplus-myanmar.com/bpk-tv/MNTV/output2/index.mpd
-
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,MRTV_ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7ab0c4dd3fa4cc48a86d7db3d95caaf:5ae6455ef9f6b9ebc5eae086e1218949
-https://ott2.canalplus-myanmar.com/bpk-tv/MRTV_ENTERTAINMENT/output2/index.mpd
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" tvg-id=" C+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,MRTV_4_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
