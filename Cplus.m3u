@@ -280,4 +280,23 @@ https://ott2.canalplus-myanmar.com/bpk-tv/MRTV_HD/output2/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=1ea0295b485c4416897cabc7c807cb79:ed93ba877ee225dae8fa1fb9e602ab53
 https://ott2.canalplus-myanmar.com/bpk-tv/ROCK_ENT/output2/index.mpd
 
- 
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_KYILITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8fad6d5f32844bbaef02889651a72a3:ff94b76e4c1f73eeae28a0fab6e47d8e
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_KYILITE/clear/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_MAEMADI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6f62937490b418487461688af7003f0:c54f813eff5ff437ae23c6eb0daa80fb
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_MAEMADI/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_PUTUTUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdbc59b889e647bd83f7b96689c59e29:66034fda5c6df674454e224c5343c8c0
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_PUTUTUE/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_PUTUTUE
+http://bananatv.org:25461/play/i2Mg1_7UfoYAYK2Oxf7VVTaQyq6-7vQphl3U8yFrA4A/.m3u8
