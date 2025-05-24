@@ -383,7 +383,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=149
 #EXTINF:-1 group-title="News" tvg-id="AlJazeeraEnglish.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera
-https://fta1-cdn-flr.visionplus.id/out/v1/b1d58fabf2764d52aa1e130f4a45d2af/index.mpd
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="BBCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="News",BBC World
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -396,21 +396,6 @@ https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
 https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=162
-#EXTINF:-1 group-title="News" tvg-id="NHKWorldPremium" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
-https://fta1-cdn-flr.visionplus.id/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd
-
-#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
-https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png", TLC HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -557,18 +542,6 @@ https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2 fw4free
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="⚽ Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-3 fw4free
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/ch3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="⚽ Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-4 fw4free
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/ch4.stream/chunklist.m3u8
-#EXTINF:-1 group-title="⚽ Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5 fw4free
-#EXTVLCOPT:http-referrer=https://fw4free.com/
-https://fw4free.inwstream.com/fw4free/ch5.stream/chunklist.m3u8
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://watchindia.net:8880/live/32612/55103/2163.ts
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="⚽ Sports",Star Sports Select 1 HD
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -650,9 +623,6 @@ https://wahyu1ptv.pages.dev/OptusSport4-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="09. Sports TV",048. SkySportMotoGP
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportF1-HD.png" group-title="09. Sports TV",049. SkySportF1
-https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV1.png" group-title="09. Sports TV",079. Sport.TV1
 https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
