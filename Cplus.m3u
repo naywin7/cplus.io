@@ -516,14 +516,6 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="⚽ Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-spotv.png",SPOTV1
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://wahyu1ptv.pages.dev/SPOTV1-HD.m3u8
-
-#EXTINF:-1 group-title="⚽ Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-spotv2.png",SPOTV2
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://wahyu1ptv.pages.dev/SPOTV2-HD.m3u8
-
 #EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="⚽ Sports", Astro_Supersport1_MY-FHD
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://7pal.short.gy/astross1
@@ -551,20 +543,11 @@ http://watchindia.net:8880/live/32612/55103/1070.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 http://watchindia.net:8880/live/32612/55103/1071.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SPOTV.png" group-title="SPORTS", SPOTV1
-https://wahyu1ptv.pages.dev/SPOTV1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SPOTV2.png" group-title="SPORTS", SPOTV2
-https://wahyu1ptv.pages.dev/SPOTV2-HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_1.png" group-title="SPORTS", SportStars1
 https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_2.png" group-title="SPORTS",SportStars2
 https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png" group-title="SPORTS",BeinSports1
-https://wahyu1ptv.pages.dev/IdBeinSports1-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="SPORTS",BeinSports1
 https://wahyu1ptv.pages.dev/AstroBein1.m3u8
@@ -634,7 +617,6 @@ https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
 
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rtmsport.png" group-title="SPORTS",RTM SPORT
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/.
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/unifisports1.png" group-title="SPORTS",UNIFI SPORTS 1
