@@ -82,6 +82,12 @@ https://ott2.canalplus-myanmar.com/bpk-tv/ANIMAL_PLANET/output2/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=9c017e85b8c64f0bb87e45fd316148f0:16bfb4619b4332a4fd2fc67a1ce28675
 https://ott2.canalplus-myanmar.com/bpk-tv/ANIMAX/output2/index.mpd
 
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" tvg-id=" C+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,CANAL_KYILITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8fad6d5f32844bbaef02889651a72a3:ff94b76e4c1f73eeae28a0fab6e47d8e
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_KYILITE/clear/index.mpd
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" tvg-id=" C+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,CANAL_ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
