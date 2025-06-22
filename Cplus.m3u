@@ -81,6 +81,22 @@ https://ott2.canalplus-myanmar.com/bpk-tv/ANIMAL_PLANET/output2/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c017e85b8c64f0bb87e45fd316148f0:16bfb4619b4332a4fd2fc67a1ce28675
 https://ott2.canalplus-myanmar.com/bpk-tv/ANIMAX/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="#EXTINF:-1 group-logo="#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,BOOMERANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38cf61a79d674cb78cab3da9f0d3c4aa:6be43b2908fc48631ca36bebffe3adb7
+https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" tvg-id=" C+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,BOOMERANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38cf61a79d674cb78cab3da9f0d3c4aa:6be43b2908fc48631ca36bebffe3adb7
+https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,BOOMERANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38cf61a79d674cb78cab3da9f0d3c4aa:6be43b2908fc48631ca36bebffe3adb7
+https://ott2.canalplus-myanmar.com/bpk-tv/BOOMERANG/output2/index.mpd
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" tvg-id=" C+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,CANAL_ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
