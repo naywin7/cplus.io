@@ -651,3 +651,14 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/300px-MUTV_logo.png",MUTV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
+
+#EXTINF:-1 group-title="China" tvg-name="" tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest/scale-to-width-down/250?cb=20200119091533",CCTV 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
+https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
+
