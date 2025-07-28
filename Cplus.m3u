@@ -430,18 +430,6 @@ https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?token=gH6favjoM
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45BN0U4.png" group-title="Sports",BEIN SPORTS 1 Malaysia
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my1.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="Sports",BEIN SPORTS 2 Malaysia
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my2.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2oY29NG.png" group-title="Sports",BEIN SPORTS 3 Malaysia
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my3.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="Sports", UNIFI SPORTS
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
@@ -454,11 +442,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="Sports", DUBAI SPORTS 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-name="Astro Football" tvg-id="Astro Football" tvg-logo="https://livecdn.zbds.top/logo/Astro Football.png" group-title="Sports", Astro Football
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
 
-#EXTINF:-1 tvg-name="Astro Premier League 1" tvg-id="Astro Premier League 1" tvg-logo="https://livecdn.zbds.top/logo/Astro Premier League 1.png" group-title="Sports", Astro Premier League 1
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
 <========================================================= NEWS ============================================================>
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
