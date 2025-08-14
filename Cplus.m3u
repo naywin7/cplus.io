@@ -561,3 +561,143 @@ https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV6.png" group-title="SPORTS",084. Sport.TV6
 https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
+
+#EXTINF:-1,Your Wifi Test
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
+#EXTINF:-1,Our Jesus
+https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
+
+#EXTINF:-1,World News
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+
+#EXTINF:-1,DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1,International News
+https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
+
+#EXTINF:-1,India Music
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1,International Kpop
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+
+#EXTINF:-1,Disco Music
+https://streamcdnc1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+
+#EXTINF:-1,Mr.Bean Cartoon
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+
+#EXTINF:-1,Kids Cartoon
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+#EXTINF:-1,Zee Movie
+https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/7384361f-5e60-4fcf-ae11-b56f8b9dea5a/0.m3u8
+
+#EXTINF:-1,Asian Movie
+https://cdn3.skygo.mn/live/disk1/AsianBOX/HLS-FTA/AsianBOX.m3u8
+
+#EXTINF:-1,Action Movie
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+
+#EXTINF:-1,Rakuten Movie
+https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/a5437e32-5276-4ed4-9db3-e8eff97927a4/0.m3u8
+
+#EXTINF:-1,Love Nature Discovery
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+
+
+#EXTINF:-1,Wild Discovery
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+
+#EXTINF:-1,Sport 1
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1,Sport 2
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+
+#EXTINF:-1,Sport 3
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+#EXTINF:-1,Sport 4
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1,Sport 5
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1,Sport 6
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+
+#EXTINF:-1,Sport 7
+https://cdn-6.pishow.tv/live/13/master.m3u8
+
+#EXTINF:-1,Sport 8
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+
+#EXTINF:-1,Sport 9
+https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Sport 10
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1,Sport 11
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/6663.ts
+
+#EXTINF:-1,Sport 12
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/6664.ts
+
+#EXTINF:-1,Sport 13
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/6665.ts
+
+#EXTINF:-1,Sport 14
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/6666.ts
+
+#EXTINF:-1,Sport 15
+https://apollo.production-public.tubi.io/live/ac-bein/426x240.m3u8?ap.debug=0&ap.pt=0&ap.sid=1d789736-bcdc-4d97-8cfd-5b5fbb7bb10a&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=dcc56bcacef9e1dcac10b41771b06e02
+
+#EXTINF:-1,Sport 16
+https://bein-esp-klowdtv.amagi.tv/playlistR240p.m3u8
+
+#EXTINF:-1,Sport 17
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1,Sport 18
+https://apollo.production-public.tubi.io/live/ac-fubo/384x216-1.m3u8?ap.debug=0&ap.pt=0&ap.sid=1801d6ff-7211-48be-8bdb-343a5ebfd514&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=5cc600d09fe348347dd06402df31e08d
+
+#EXTINF:-1,Sport 19
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+
+#EXTINF:-1,Sport 20
+https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports/426x240.m3u8?ap.debug=0&ap.pt=0&ap.sid=aeb67061-2d18-4ac5-8b61-b00c798491dd&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=a44f455b5f8393310fa89d2424794882
+
+#EXTINF:-1,Sport 21
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/8122.ts
+
+#EXTINF:-1,Sport 22
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/8123.ts
+
+#EXTINF:-1,Sport 23
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/8124.ts
+
+#EXTINF:-1,Sport 24
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/8125.ts
+
+#EXTINF:-1,Sport 25
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/8126.ts
+
+
+#EXTINF:-1,Sport 26
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+
+#EXTINF:-1,Sport 27
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1,Sport 28
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+
+#EXTINF:-1,Sport 29
+https://live.mnet.mk/hls/mnet-sport.m3u8
+
+#EXTINF:-1,Sport 30
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
