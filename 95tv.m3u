@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-PLAYLIST-TYPE:M3U8
+
+#EXTINF:-1,Mytel TV 1
+https://live.95tv.live/channel/25/playlist.m3u8
+
+#EXTINF:-1,Mytel TV 2
+https://livedth.95tv.live/memfs/949c1188-f5cc-434e-9c3b-321d2564f7e3.m3u8
+
+#EXTINF:-1,Mytel TV 3
+https://livedth.95tv.live/memfs/4017d9b6-145f-47cf-a989-a597d3431415.m3u8
+
+#EXTINF:-1,Mytel TV 4
+https://livedth.95tv.live/memfs/c581a96c-7b14-40c5-abe7-72b41c7c3c25.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJpUHVhWmxwSGciLCJpYXQiOjE3NTU1MDg5OTEsInVzZXJJRCI6InhLSWJCbEhTUiJ9.CDGh1TO0rYVxzZGXxGSKxLBcjGwBiw_uAN4CbdZdskU
+
+#EXTINF:-1,Mytel TV 5
+https://livedth.95tv.live/memfs/ce44af6c-8fd9-4cce-8277-ea367e4ad5fd.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJ4bW5QR2x0TmciLCJpYXQiOjE3NTU1MDkxNDQsInVzZXJJRCI6InhLSWJCbEhTUiJ9.yV7DmqowIWg9rXoixFA651hTs33f4-O09OCN3vOZsRI
+
+#EXTINF:-1,Mytel TV 6
+https://livedth.95tv.live/memfs/e10747cf-8767-4b89-9e88-0c1ea1c14c9a.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiIwRnI4R2x0TlIiLCJpYXQiOjE3NTU1MDkyMjUsInVzZXJJRCI6InhLSWJCbEhTUiJ9.VqtSsadDkzL046FWEDloQt7MAs8nm5AwbkNXhkwqIdo
+
+#EXTINF:-1,Mytel TV 7
+https://vod.95tv.live/public/uploads/2023/04/24/3dab5e2c-b114-4dd5-938a-db16df22ba82/EVezruP4R/index.m3u8
+
+#EXTINF:-1,Mytel TV 8
+https://livedth.95tv.live/memfs/cb0e6dd3-6d4d-4fa7-9adc-6f2e3e6544e1.m3u8
+
+#EXTINF:-1,Mytel_Live Sport 1
+https://live.95tv.live/channel/9/playlist.m3u8
