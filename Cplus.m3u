@@ -17,13 +17,13 @@ https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0c92391adac1472bad4f68791b3bb4b8:c887792e197e7f5472371f76709e8f8a
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://github.com/yehtutbo/iptvmm/blob/main/mahar_tv_mm.png", Mahar TV
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.postimg.cc/VNZS7BdH/IMG-20231018-103932.png", Mahar TV
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
-#EXTINF:-1  group-title="MYANMAR TV" tvg-logo="https://github.com/yehtutbo/iptvmm/blob/main/mahar_tv_mm.png",MAHAR SPORTS 
+#EXTINF:-1  group-title="MYANMAR TV" tvg-logo="https://i.postimg.cc/VNZS7BdH/IMG-20231018-103932.png",MAHAR SPORTS 
 https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
 
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-120x120-f49.jpg", FortuneTV
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.postimg.cc/pLxsf8hF/IMG-20231018-104422.png", FortuneTV
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://images.app.goo.gl/y6NgEafk1iqmEvWA7", DVB NEW
@@ -32,9 +32,9 @@ https://live-stream.dvb.no/hls/stream_high/index.m3u8
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/zyTQG9F.png",MWD
 http://203.81.84.130/hls/mwd/index.m3u8
 
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/zyTQG9F.png", TVM
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.postimg.cc/1tZdjT4v/IMG-20231018-111507.png", TVM
 http://203.81.84.130/hls/mwd_serie/index.m3u8
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://images.app.goo.gl/mCZ7JkHcx5FYvmpT9", GOLDEN 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.postimg.cc/JhymL9rm/IMG-20231018-111441.png", GOLDEN 
 http://203.81.84.130/hls/mwd_document/index.m3u8
 
 .............Movies............
