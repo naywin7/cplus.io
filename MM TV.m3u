@@ -106,3 +106,102 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
+
+<==================================================== SPORTS ====================================================>
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Sports",Sportstars
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Sports",Sportstars 2
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mastertv.tech/mastertv/topxxxxxxxxxx.php
+#EXTINF:-1 tvg-id="MNCSports3.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="Sports",Sportstars 3
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen1.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_1.webp",SONY SPORTS TEN 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen2.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_2.webp",SONY SPORTS TEN 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen3.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_3.webp",SONY SPORTS TEN 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen4.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_4.webp",SONY SPORTS TEN 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="Sports", UNIFI SPORTS
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="Sports",SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="Sports", DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="Sports", DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",LIVE NOW 01
+http://live.95tv.live/channel/11/playlist.m3u8
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",LIVE NOW 02
+http://live.95tv.live/channel/10/playlist.m3u8
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",LIVE NOW 03
+http://live.95tv.live/channel/19/playlist.m3u8
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",LIVE NOW 04
+http://live.95tv.live/channel/9/playlist.m3u8
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",LIVE NOW 05
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/6663.ts
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",TV 01
+https://live.95tv.live/channel/25/playlist.m3u8
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",TV 02
+http://viphlvp.xyz:8080/Germanaguilar/Germanaguilar2024/841
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",TV 03
+http://viphlvp.xyz:8080/Germanaguilar/Germanaguilar2024/842
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",TV 04
+http://livedth.95tv.live/memfs/c581a96c-7b14-40c5-abe7-72b41c7c3c25.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJpUHVhWmxwSGciLCJpYXQiOjE3NTU1MDg5OTEsInVzZXJJRCI6InhLSWJCbEhTUiJ9.CDGh1TO0rYVxzZGXxGSKxLBcjGwBiw_uAN4CbdZdskU
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",TV 05
+http://livedth.95tv.live/memfs/ce44af6c-8fd9-4cce-8277-ea367e4ad5fd.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiJ4bW5QR2x0TmciLCJpYXQiOjE3NTU1MDkxNDQsInVzZXJJRCI6InhLSWJCbEhTUiJ9.yV7DmqowIWg9rXoixFA651hTs33f4-O09OCN3vOZsRI
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",TV 06
+http://livedth.95tv.live/memfs/e10747cf-8767-4b89-9e88-0c1ea1c14c9a.m3u8?signKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50SUQiOiIwRnI4R2x0TlIiLCJpYXQiOjE3NTU1MDkyMjUsInVzZXJJRCI6InhLSWJCbEhTUiJ9.VqtSsadDkzL046FWEDloQt7MAs8nm5AwbkNXhkwqIdo
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",TV 07
+http://vod.95tv.live/public/uploads/2023/04/24/3dab5e2c-b114-4dd5-938a-db16df22ba82/EVezruP4R/index.m3u8
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",TV 08
+http://viphlvp.xyz:8080/Germanaguilar/Germanaguilar2024/843
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",TV 09
+http://viphlvp.xyz:8080/Germanaguilar/Germanaguilar2024/844
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",TV 10
+http://viphlvp.xyz:8080/Germanaguilar/Germanaguilar2024/845
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",TV 11
+http://viphlvp.xyz:8080/Germanaguilar/Germanaguilar2024/846
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",TV 12
+http://viphlvp.xyz:8080/Germanaguilar/Germanaguilar2024/847
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",TV 13
+http://viphlvp.xyz:8080/Germanaguilar/Germanaguilar2024/132370
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",TV 14
+http://viphlvp.xyz:8080/Germanaguilar/Germanaguilar2024/132371
+#EXTINF:-1 group-title="95 TV" tvg-logo="https://tinyurl.com/mw9y9f7k",TV 15
+http://viphlvp.xyz:8080/Germanaguilar/Germanaguilar2024/768
