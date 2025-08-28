@@ -171,12 +171,24 @@ https://wo.cma.footballii.ir/hls2/b2_src.m3u8
 https://wo.cma.footballii.ir/hls2/b3_src.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTYxrbCz/download-1.jpg" group-title="Sports", PREMIER SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c92391adac1472bad4f68791b3bb4b8:c887792e197e7f5472371f76709e8f8a
 http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032529&extension=m3u8&play_token=Ej4yq0izgM
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTYxrbCz/download-1.jpg" group-title="Sports", PREMIER SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c92391adac1472bad4f68791b3bb4b8:c887792e197e7f5472371f76709e8f8a
 http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032528&extension=m3u8&play_token=Ej4yq0izgM
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTYxrbCz/download-1.jpg" group-title="Sports", PREMIER SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c92391adac1472bad4f68791b3bb4b8:c887792e197e7f5472371f76709e8f8a
 http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032527&extension=m3u8&play_token=Ej4yq0izgM
 
 
