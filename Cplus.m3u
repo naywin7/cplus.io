@@ -189,7 +189,7 @@ http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032528&exten
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c92391adac1472bad4f68791b3bb4b8:c887792e197e7f5472371f76709e8f8a
-http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032527&extension=m3u8&play_token=Ej4yq0izgM
+#EXT-X-KEY:METHOD=AES-128,URI="http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032527&extension=m3u8&play_token=Ej4yq0izgM"
 
 
 <============================================================ KNOWLEDGE & DOCUMENTARY ============================================>
