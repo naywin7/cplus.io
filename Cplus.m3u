@@ -162,13 +162,13 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss4zkN5S/download-1.png" group-title="Sports", BEIN SPORTS 1
-https://wo.cma.footballii.ir/hls2/b1_src.m3u8
+https://wo.cma.footballii.ir/hls2/b1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss4zkN5S/download-1.png" group-title="Sports", BEIN SPORTS 2
-https://wo.cma.footballii.ir/hls2/b2_src.m3u8
+https://wo.cma.footballii.ir/hls2/b2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss4zkN5S/download-1.png" group-title="Sports", BEIN SPORTS 3
-https://wo.cma.footballii.ir/hls2/b3_src.m3u8
+https://wo.cma.footballii.ir/hls2/b3.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
