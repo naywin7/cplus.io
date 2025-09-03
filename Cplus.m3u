@@ -102,6 +102,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
+#EXTINF:-1 group-title="Movies" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" tvg-name="SYFY",SYFY
+http://fl3.moveonjoy.com/SYFY/index.m3u8
+
+
 
 <==================================================== SPORTS ====================================================>
 
@@ -267,6 +271,8 @@ http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 http://ott.watch/stream/D3FX33QMIH1/390.m3u8
 
 <============================================================ KNOWLEDGE & DOCUMENTARY ============================================>
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" tvg-name="WORLD FISHING NETWORK",WORLD FISHING NETWORK
+http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic",National Geographic
 http://fl3.moveonjoy.com/National_Geographic/index.m3u8
