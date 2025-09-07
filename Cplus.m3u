@@ -108,6 +108,7 @@ http://fl3.moveonjoy.com/SYFY/index.m3u8
 
 
 <==================================================== SPORTS ====================================================>
+
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://iili.io/Jp5oxpt.png" group-title="Sports" ,  NBC SPORTS 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -129,9 +130,8 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Sports",Sportstars
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://iili.io/Jp5oxpt.png" group-title="Sports",Sportstars
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-#https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
