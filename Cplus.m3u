@@ -342,6 +342,20 @@ EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="FOOTBALL",Champions TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 group-title="FOOTBALL",tvg-logo="https://i.postimg.cc/bvnvpzRP/download.png",001.EPL Live(Myn Voice)
+https://live.95tv.live/channel/25/playlist.m3u8
+
+#EXTINF:-1 group-title="FOOTBALL" tvg-rec="7" timeshift="7",tvg-logo="https://i.postimg.cc/wTSwxpQt/download-3.png",Setanta Sports HD EpL
+http://ott.watch/stream/D3FX33QMIH1/313.m3u8
+
+
 <============================================================ KNOWLEDGE & DOCUMENTARY ============================================>
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" tvg-name="WORLD FISHING NETWORK",WORLD FISHING NETWORK
 http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
