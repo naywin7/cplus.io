@@ -30,6 +30,19 @@ http://203.81.84.130/hls/mwd_serie/index.m3u8
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://images.app.goo.gl/mCZ7JkHcx5FYvmpT9",010. GOLDEN 
 http://203.81.84.130/hls/mwd_document/index.m3u8
 
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo=" ",011.Football(burmese voice)
+#EXTINF:-1 group-title="Sports" tvg-logo=" ",001.Football(burmese voice)
 https://live.95tv.live/channel/25/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-rec="7" timeshift="7",tvg-logo="https://i.postimg.cc/SsrPjvNB/download-5.jpg",003.Setanta Sports 1 HD
+http://ott.watch/stream/D3FX33QMIH1/234.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-rec="7" timeshift="7",tvg-logo="https://i.postimg.cc/SsrPjvNB/download-5.jpg",004.Setanta Sports 2 HD
+http://ott.watch/stream/D3FX33QMIH1/235.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-rec="7" timeshift="7",tvg-logo="https://i.postimg.cc/wTSwxpQt/download-3.png",002.Setanta Sports HD EpL
+http://ott.watch/stream/D3FX33QMIH1/313.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-rec="7" timeshift="7",tvg-logo="https://i.postimg.cc/SsrPjvNB/download-5.jpg",005.Setanta Sports+ HD F
+http://ott.watch/stream/D3FX33QMIH1/390.m3u8
+
 
