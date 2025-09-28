@@ -54,6 +54,28 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="SPORTS",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",PREMIER 1
+http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032529&extension=m3u8&play_token=Ej4yq0izgM
+
+
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",PREMIER 2
+http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032528&extension=m3u8&play_token=Ej4yq0izgM
+
+
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",PREMIER 3
+http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032527&extension=m3u8&play_token=Ej4yq0izgM
+
+
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",PREMIER 4
+http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032526&extension=m3u8&play_token=Ej4yq0izgM
+
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",PREMIER 5
+http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032525&extension=m3u8&play_token=Ej4yq0izgM
+
+
+#EXTINF:-1 tvg-logo=" " group-title="SPORTS",PREMIER 6
+http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032524&extension=m3u8&play_token=Ej4yq0izgM
+
 
 
 
