@@ -357,24 +357,6 @@ http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
 
 <============================================================ KNOWLEDGE & DOCUMENTARY ============================================>
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" tvg-name="WORLD FISHING NETWORK",WORLD FISHING NETWORK
-http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic",National Geographic
-http://fl3.moveonjoy.com/National_Geographic/index.m3u8
-
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="National.Geographic.Wild.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" tvg-name="National Geographic Wild",National Geographic Wild
-http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-
-
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="Comet.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png" tvg-name="COMET",COMET
-http://fl3.moveonjoy.com/COMET/index.m3u8
-
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="The.Cooking.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" tvg-name="COOKING",COOKING
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
