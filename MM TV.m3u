@@ -54,27 +54,16 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="SPORTS",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="SPORTS",PREMIER 1
-http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032529&extension=ts&play_token=Ej4yq0izgM
-
-
-#EXTINF:-1 tvg-logo=" " group-title="SPORTS",PREMIER 2
-http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032528&extension=ts&play_token=Ej4yq0izgM
-
-
-#EXTINF:-1 tvg-logo=" " group-title="SPORTS",PREMIER 3
-http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032527&extension=ts&play_token=Ej4yq0izgM
-
-
-#EXTINF:-1 tvg-logo=" " group-title="SPORTS",PREMIER 4
-http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032526&extension=ts&play_token=Ej4yq0izgM
-
-#EXTINF:-1 tvg-logo=" " group-title="SPORTS",PREMIER 5
-http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032525&extension=ts&play_token=Ej4yq0izgM
-
-
-#EXTINF:-1 tvg-logo=" " group-title="SPORTS",PREMIER 6
-http://mag.tx-ott.me:80/play/live.php?mac=00:1A:79:71:2f:95&stream=1032524&extension=ts&play_token=Ej4yq0izgM
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="SPORTS",ASTRO ARENA 1
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="SPORTS",ASTRO ARENA
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astaren2.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="SPORTS",ASTRO ARENA 2
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="SPORTS",ASTRO FUTBOL 
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="SPORTS",ASTRO+ 
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
 
 
 
