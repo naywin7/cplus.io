@@ -365,6 +365,17 @@ https://live.95tv.live/channel/25/playlist.m3u8
 #EXTINF:-1 group-title="FOOTBALL" tvg-rec="7" timeshift="7",tvg-logo="https://i.postimg.cc/wTSwxpQt/download-3.png",Setanta Sports HD EpL
 http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
+<<<<<=====sport1=====>>>>>
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="☆SPORT 1☆",ASTRO ARENA 1
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="☆SPORT 1☆",ASTRO ARENA 2
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astaren2.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="☆SPORT 1☆",ASTRO FUTBOL 
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="☆SPORT 1☆",ASTRO+ 
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
+
 
 <============================================================ KNOWLEDGE & DOCUMENTARY ============================================>
 
